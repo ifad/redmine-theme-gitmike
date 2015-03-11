@@ -14,9 +14,9 @@ tt, code, pre { font-family: Consolas, "Liberation Mono", Courier, monospace; fo
 
 #content h1, h2, h3, h4 { color: #333333; }
 
-#header { background: white; padding: 4px 8px 10px 6px; height: auto; }
+#header { background: white; padding: 4px 8px 0 6px; height: auto; }
 #header a { color: #4183c4; }
-#header > h1 { background: url(../images/logo.png) no-repeat 10px 5px; padding: 5px 45px; color: #393939; }
+#header > h1 { background: url(../images/logo.png) no-repeat 0 0; padding: 15px 55px 30px; color: #393939; }
 
 #main { background: transparent; margin: 15px 15px 0px 15px; background-color: white; }
 

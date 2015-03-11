@@ -28,14 +28,14 @@ tt, code, pre {
 
 #header {
   background: $background-color;
-  padding: 4px 8px 10px 6px;
+  padding: 4px 8px 0 6px;
   height: auto;
   a {
     color: $link-color;
   }
   > h1 {
-    background: url(../images/logo.png) no-repeat 10px 5px;
-    padding: 5px 45px;
+    background: url(../images/logo.png) no-repeat 0 0;
+    padding: 15px 55px 30px;
     color: #393939;
   }
 }
